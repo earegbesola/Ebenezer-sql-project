@@ -1,17 +1,23 @@
-# Final-Project-Transforming-and-Analyzing-Data-with-SQL
+Title:
+This project is titled Transforming and Analyzing Data with SQL
 
-## Project/Goals
-(fill in your description and goals here)
+Objective:
+The objective of the project is to clean and transform a given raw data set to a new data set and answer business questions 
+using the transformed data.
 
-## Process
-### (your step 1)
-### (your step 2)
+Process followed:
+1. Visualizing and exploring the diffrent rows and column in the source file(CSV)
+2.Loading of the files into a created database called ecommerce in postgres 
+3.Further cleaning and exploration and transformation of the data was done in the database using different SQL queries.
 
-## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+Challenges:
+Loading the provided data(csv files) into the database was a challenge.This took alot of time and after loading I was still having 
+issues displaying all record from one of the tables in the database created(analytics table).
 
-## Challenges 
-(discuss challenges you faced in the project)
+Future goals.
+The data was not as clean as I would have wanted and this will defenitely 
+affect the quality of the insight that the data will provide.
+If there was more time ,I would have done more cleaning and transformation of the data to guarantee a better
+ data Quality ready for analysis.
 
-## Future Goals
-(what would you do if you had more time?)
+
