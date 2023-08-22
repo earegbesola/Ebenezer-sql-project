@@ -1,13 +1,13 @@
-Title:
+# Title:
 
-This project is titled Transforming and Analyzing Data with SQL
+ This project is titled Transforming and Analyzing Data with SQL
 
-Objective:
+# Objective:
 
 The objective of the project is to clean and transform a given raw data set to a new data set and answer business questions 
 using the transformed data.
 
-Process followed:
+# Process followed:
 
 1.Visualizing and exploring the diffrent rows and column in the source file(CSV)
 
@@ -19,12 +19,12 @@ Process followed:
 
 This is to guaranty the quality of data for the project as this ultimately determines the suitability and output of decisions made with the data.This was done to ensure that data characteristics like consistency,accuracy,Validity,completenes and uniqueness were assured.
 
-5.Challenges:
+# Challenges:
 
 Loading the provided data(csv files) into the database was a challenge.This took alot of time and after loading I was still having 
 issues displaying all record from one of the tables in the database created(analytics table).
 
-6.Some of the questions answered with the data include the following:
+# Some of the questions answered with the data include the following:
 
 a.The product with the highest  sales by volume
 
@@ -33,7 +33,7 @@ b.products not in stock/discontinued
 c.product sold with  the average least sentimentscore or negative perception/opinion by customers
 
 
-7.Future goals.
+# Future goals.
 
 The data was not as clean as I would have wanted and this will defenitely 
 affect the quality of the insight that the data will provide.
