@@ -20,7 +20,7 @@ Some of the data in the tables may not be valid like storing integers as a text 
 ## d.We could also be faced with the risk of Data accuracy.
 
 
-# The  QA process  executed was to basicaly test for the data quality characteristics to ensure that we address data quality risk areas identified .
+### The  QA process  executed was to basicaly test for the data quality characteristics to ensure that we address data quality risk areas identified .
 
 This process was implemented using  the following  SQL queries :
 
